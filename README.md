@@ -58,10 +58,10 @@ cp $SDD_PATH/output/anime.png /home/$USER/.config/wallpapers/anime.png
 
 echo "Reloading hyprpaper"
 hyprctl hyprpaper unload "/home/$USER/.config/wallpapers/landscape.png"
-hyprctl hyprpaper preload "/home/$USER/.config/wallpapers/landscape.png"
+hyprctl hyprpaper preload "/home/$USER/.config/wallpapers/anime.png"
 echo "Refreshing Monitors"
-hyprctl hyprpaper wallpaper DP-2,/home/$USER/.config/wallpapers/landscape.png
-hyprctl hyprpaper wallpaper HDMI-A-1,/home/$USER/.config/wallpapers/landscape.png
+hyprctl hyprpaper wallpaper DP-2,/home/$USER/.config/wallpapers/anime.png
+hyprctl hyprpaper wallpaper HDMI-A-1,/home/$USER/.config/wallpapers/anime.png
 ```
 
 ## Credits
