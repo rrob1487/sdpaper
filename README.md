@@ -16,7 +16,7 @@ Along with this repo - **[stable-diffusion-docker](https://github.com/fboulnois/
 \
 Follow their respective documentation for install guides and troubleshooting. \
 \
-If you can run this example from the prior github, you should be set:\
+If you can run this example from the github link above, you should be set:\
 `./build.sh run 'Andromeda galaxy in a bottle'`
 
 
