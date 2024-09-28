@@ -63,3 +63,6 @@ echo "Refreshing Monitors"
 hyprctl hyprpaper wallpaper DP-2,/home/$USER/.config/wallpapers/landscape.png
 hyprctl hyprpaper wallpaper HDMI-A-1,/home/$USER/.config/wallpapers/landscape.png
 ```
+
+## Credits
+Also give some love to [dreamlike-art](https://huggingface.co/dreamlike-art/dreamlike-anime-1.0) for the model
