@@ -2,8 +2,8 @@
 A repo to help people set up their own stable diffusion backgrounds
 
 ## Usage
-**Press F1 to load new background**
-**Press F12 to save to a separate folder forever**
+**Press F1 to load new background**\n
+**Press F12 to save to a separate folder forever**\n
 For all configs below, replace $USER with your username, and replace the monitor values according to this guide: [monitors](https://wiki.hyprland.org/Configuring/Monitors/)
 
 
