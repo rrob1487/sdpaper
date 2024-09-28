@@ -2,19 +2,19 @@
 A repo to help people set up their own stable diffusion backgrounds
 
 ## Usage
-**Press F1 to load new background**\n
-**Press F12 to save to a separate folder forever**\n
+**Press F1 to load new background**\
+**Press F12 to save to a separate folder forever**\
 For all configs below, replace $USER with your username, and replace the monitor values according to this guide: [monitors](https://wiki.hyprland.org/Configuring/Monitors/)
 
 
 ## Prerequisites
-This project uses - **docker, hyprland, hyprpaper**
-
-Along with this repo - **[stable-diffusion-docker](https://github.com/fboulnois/stable-diffusion-docker)**
-
-Follow their respective documentation for install guides and troubleshooting. 
-
-If you can run this example from the prior github, you should be set:
+This project uses - **docker, hyprland, hyprpaper**\
+\
+Along with this repo - **[stable-diffusion-docker](https://github.com/fboulnois/stable-diffusion-docker)**\
+\
+Follow their respective documentation for install guides and troubleshooting. \
+\
+If you can run this example from the prior github, you should be set:\
 `./build.sh run 'Andromeda galaxy in a bottle'`
 
 
