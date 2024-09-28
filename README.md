@@ -18,7 +18,7 @@ Follow their respective documentation for install guides and troubleshooting. \
 \
 If you can run this example from the prior github, you should be set:\
 `./build.sh run 'Andromeda galaxy in a bottle'`
-
+\
 
 ## Hyprland Config
 ```
@@ -26,7 +26,7 @@ If you can run this example from the prior github, you should be set:\
 bind = $mainMod SHIFT, F1, exec, $terminal -e /home/$USER/.config/hypr/sd_paper.sh 
 bind = $mainMod SHIFT, F12, execr, cp /home/$USER/.config/wallpapers/anime.png /home/$USER/.config/wallpapers/saves/$(sha256sum /home/$USER/.config/wallpapers/anime.png | cut -d " " -f 1).png
 ```
-
+\
 
 ## Hyprpaper Config
 This sets the background image for when hyprpaper is first launched. You most likely will have to change the monitors to fit your needs
@@ -37,7 +37,7 @@ wallpaper = HDMI-A-1,/home/$USER/.config/wallpapers/anime.png
 
 splash=false
 ```
-
+\
 
 ## sd_paper.sh
 ```
