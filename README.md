@@ -31,7 +31,7 @@ bind = $mainMod SHIFT, F12, execr, cp /home/$USER/.config/wallpapers/anime.png /
 ## Hyprpaper Config
 This sets the background image for when hyprpaper is first launched. You most likely will have to change the monitors to fit your needs
 ```
-preload=/home//.config/wallpapers/anime.png
+preload=/home/$USER/.config/wallpapers/anime.png
 wallpaper = DP-2,/home/$USER/.config/wallpapers/anime.png
 wallpaper = HDMI-A-1,/home/$USER/.config/wallpapers/anime.png
 
